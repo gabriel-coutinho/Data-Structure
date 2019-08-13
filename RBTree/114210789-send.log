@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-20T14:19:36.391-0300</date>
+  <logger>GABRIEL DE ARAUJO COUTINHO</logger>
+  <level>FINE</level>
+  <message>File 114210789-GABRIEL DE ARAUJO COUTINHO.zip was received. It was sent by GABRIEL DE ARAUJO COUTINHO from IP 150.165.74.103</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-21T00:20:38.862-0300</date>
+  <logger>GABRIEL DE ARAUJO COUTINHO</logger>
+  <level>FINE</level>
+  <message>File 114210789-GABRIEL DE ARAUJO COUTINHO.zip was received. It was sent by GABRIEL DE ARAUJO COUTINHO from IP 192.168.25.14</message>
+</record>
