@@ -1,0 +1,9 @@
+/home/gabrielac/LEDA/R05-02-Rot-Pilha-FilaComPilha-environment/src/main/java/adt/stack/StackUnderflowException.java
+/home/gabrielac/LEDA/R05-02-Rot-Pilha-FilaComPilha-environment/src/main/java/adt/queue/QueueUnderflowException.java
+/home/gabrielac/LEDA/R05-02-Rot-Pilha-FilaComPilha-environment/src/main/java/adt/stack/StackImpl.java
+/home/gabrielac/LEDA/R05-02-Rot-Pilha-FilaComPilha-environment/src/main/java/adt/stack/StackOverflowException.java
+/home/gabrielac/LEDA/R05-02-Rot-Pilha-FilaComPilha-environment/src/main/java/adt/queue/QueueUsingStack.java
+/home/gabrielac/LEDA/R05-02-Rot-Pilha-FilaComPilha-environment/src/main/java/adt/queue/QueueImpl.java
+/home/gabrielac/LEDA/R05-02-Rot-Pilha-FilaComPilha-environment/src/main/java/adt/stack/Stack.java
+/home/gabrielac/LEDA/R05-02-Rot-Pilha-FilaComPilha-environment/src/main/java/adt/queue/QueueOverflowException.java
+/home/gabrielac/LEDA/R05-02-Rot-Pilha-FilaComPilha-environment/src/main/java/adt/queue/Queue.java
